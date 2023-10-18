@@ -1,0 +1,14 @@
+C:\Users\itach\source\repos\Gerenciamento de Escola\Gerenciamento de Escola\obj\Debug\net6.0\Gerenciamento de Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itach\source\repos\Gerenciamento de Escola\Gerenciamento de Escola\obj\Debug\net6.0\Gerenciamento de Escola.AssemblyInfoInputs.cache
+C:\Users\itach\source\repos\Gerenciamento de Escola\Gerenciamento de Escola\obj\Debug\net6.0\Gerenciamento de Escola.AssemblyInfo.cs
+C:\Users\itach\source\repos\Gerenciamento de Escola\Gerenciamento de Escola\obj\Debug\net6.0\Gerenciamento de Escola.csproj.CoreCompileInputs.cache
+C:\Users\itach\source\repos\Gerenciamento de Escola\Gerenciamento de Escola\bin\Debug\net6.0\Gerenciamento de Escola.exe
+C:\Users\itach\source\repos\Gerenciamento de Escola\Gerenciamento de Escola\bin\Debug\net6.0\Gerenciamento de Escola.deps.json
+C:\Users\itach\source\repos\Gerenciamento de Escola\Gerenciamento de Escola\bin\Debug\net6.0\Gerenciamento de Escola.runtimeconfig.json
+C:\Users\itach\source\repos\Gerenciamento de Escola\Gerenciamento de Escola\bin\Debug\net6.0\Gerenciamento de Escola.dll
+C:\Users\itach\source\repos\Gerenciamento de Escola\Gerenciamento de Escola\bin\Debug\net6.0\Gerenciamento de Escola.pdb
+C:\Users\itach\source\repos\Gerenciamento de Escola\Gerenciamento de Escola\obj\Debug\net6.0\Gerenciamento de Escola.dll
+C:\Users\itach\source\repos\Gerenciamento de Escola\Gerenciamento de Escola\obj\Debug\net6.0\refint\Gerenciamento de Escola.dll
+C:\Users\itach\source\repos\Gerenciamento de Escola\Gerenciamento de Escola\obj\Debug\net6.0\Gerenciamento de Escola.pdb
+C:\Users\itach\source\repos\Gerenciamento de Escola\Gerenciamento de Escola\obj\Debug\net6.0\Gerenciamento de Escola.genruntimeconfig.cache
+C:\Users\itach\source\repos\Gerenciamento de Escola\Gerenciamento de Escola\obj\Debug\net6.0\ref\Gerenciamento de Escola.dll
